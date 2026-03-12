@@ -36,11 +36,11 @@ cpp-ecommerce-system
 ├── E-Commerce.exe
 └── README.md
 
-main.cpp → main source code
-users.txt → stores user accounts
-Cart.txt → stores cart data
-products.txt → stores product information
-E-Commerce.exe → compiled application
+main.cpp → main source code.
+users.txt → stores user accounts.
+Cart.txt → stores cart data.
+products.txt → stores product information.
+E-Commerce.exe → compiled application.
 
 👨‍💻 Author
 Abdelmoez Galal

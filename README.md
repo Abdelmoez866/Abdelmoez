@@ -29,18 +29,6 @@ This project demonstrates basic programming concepts such as file handling, data
 
 cpp-ecommerce-system
 
-├── main.cpp
-
-├── users.txt
-
-├── Cart.txt
-
-├── products.txt
-
-├── E-Commerce.exe
-
-└── README.md
-
 main.cpp → main source code
 
 users.txt → stores user accounts
@@ -50,6 +38,8 @@ Cart.txt → stores cart data
 products.txt → stores product information
 
 E-Commerce.exe → compiled application
+
+---
 
 Author
 

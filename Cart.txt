@@ -1,0 +1,7 @@
+id,name,price,quantity,user
+
+1,Smartphone,750.00,2,ali
+12,VR Headset,700.00,2,ali
+29,Running Shoes,220.00,6,ali
+81,Football,150.00,5,ali
+49,War and Peace,150.00,2,ali

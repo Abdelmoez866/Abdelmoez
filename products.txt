@@ -1,0 +1,152 @@
+id,name,price,quantity,category,description
+1,Smartphone,750.00,20,Technology,High-quality smartphone with excellent durability
+2,Laptop,950.00,15,Technology,High-quality laptop with excellent durability
+3,Wireless Earbuds,150.00,30,Technology,High-quality wireless earbuds with excellent durability
+4,Bluetooth Speaker,200.00,25,Technology,High-quality bluetooth speaker with excellent durability
+5,Smartwatch,300.00,18,Technology,High-quality smartwatch with excellent durability
+6,Gaming Mouse,120.00,40,Technology,High-quality gaming mouse with excellent durability
+7,Mechanical Keyboard,250.00,22,Technology,High-quality mechanical keyboard with excellent durability
+8,Portable Charger,100.00,35,Technology,High-quality portable charger with excellent durability
+9,External Hard Drive,400.00,28,Technology,High-quality external hard drive with excellent durability
+10,4K TV,800.00,12,Technology,High-quality 4k tv with excellent durability
+11,Tablet,500.00,20,Technology,High-quality tablet with excellent durability
+12,VR Headset,700.00,10,Technology,High-quality vr headset with excellent durability
+13,Digital Camera,650.00,15,Technology,High-quality digital camera with excellent durability
+14,Action Camera,450.00,18,Technology,High-quality action camera with excellent durability
+15,Graphics Tablet,350.00,25,Technology,High-quality graphics tablet with excellent durability
+16,Wireless Router,150.00,30,Technology,High-quality wireless router with excellent durability
+17,USB-C Hub,80.00,45,Technology,High-quality usb-c hub with excellent durability
+18,Webcam HD,100.00,40,Technology,High-quality webcam hd with excellent durability
+19,LED Monitor,300.00,22,Technology,High-quality led monitor with excellent durability
+20,Gaming Console,600.00,15,Technology,High-quality gaming console with excellent durability
+21,Cotton T-shirt,50.00,50,Clothing,Comfortable cotton t-shirt with various sizes
+22,Denim Jeans,120.00,35,Clothing,Durable denim jeans in multiple colors
+23,Winter Jacket,250.00,20,Clothing,Warm winter jacket for cold weather
+24,Summer Dress,150.00,30,Clothing,Lightweight summer dress with floral design
+25,Sneakers,200.00,40,Clothing,Comfortable sneakers for everyday wear
+26,Leather Belt,80.00,60,Clothing,Genuine leather belt with stylish buckle
+27,Sports Shorts,90.00,45,Clothing,Breathable sports shorts for active wear
+28,Wool Sweater,180.00,25,Clothing,Warm wool sweater for winter
+29,Running Shoes,220.00,35,Clothing,High-performance running shoes
+30,Hoodie,130.00,40,Clothing,Cozy hoodie for casual wear
+31,Formal Shirt,100.00,50,Clothing,Elegant formal shirt suitable for office
+32,Casual Pants,110.00,40,Clothing,Comfortable casual pants for daily use
+33,Swimwear,90.00,30,Clothing,Stylish swimwear for beach and pool
+34,Baseball Cap,60.00,55,Clothing,Adjustable baseball cap for outdoor use
+35,Socks Pack,40.00,70,Clothing,Pack of comfortable cotton socks
+36,Scarf,70.00,45,Clothing,Warm scarf for winter wear
+37,Leather Jacket,300.00,15,Clothing,Premium leather jacket with modern style
+38,Flip Flops,50.00,60,Clothing,Comfortable flip flops for summer
+39,Tracksuit,180.00,25,Clothing,Full tracksuit for sports and leisure
+40,Raincoat,200.00,20,Clothing,Waterproof raincoat for outdoor activities
+41,The Alchemist,60.00,35,Books,Popular novel by Paulo Coelho
+42,Clean Code,120.00,20,Books,Guide to writing clean, maintainable code
+43,The Pragmatic Programmer,130.00,18,Books,Classic programming book with practical tips
+44,1984,70.00,30,Books,Dystopian novel by George Orwell
+45,Moby Dick,80.00,25,Books,Classic adventure novel by Herman Melville
+46,Harry Potter,100.00,40,Books,Famous fantasy series by J.K. Rowling
+47,Sherlock Holmes,90.00,35,Books,Detective stories by Arthur Conan Doyle
+48,The Little Prince,50.00,50,Books,Beloved children’s book by Antoine de Saint-Exupéry
+49,War and Peace,150.00,15,Books,Historical novel by Leo Tolstoy
+50,Pride and Prejudice,100.00,30,Books,Romantic novel by Jane Austen
+51,Introduction to Algorithms,200.00,15,Books,Comprehensive textbook on algorithms and data structures
+52,Data Structures in C++,180.00,20,Books,Guide to mastering data structures in C++
+53,Artificial Intelligence Basics,150.00,18,Books,Beginner-friendly book on AI concepts
+54,Mathematics for Programmers,140.00,25,Books,Essential math concepts for programmers
+55,Deep Learning with Python,160.00,20,Books,Hands-on guide to deep learning with Python
+56,History of Egypt,100.00,30,Books,A historical account of Egypt’s civilization
+57,Modern Physics,130.00,22,Books,Comprehensive textbook on modern physics
+58,Astronomy 101,110.00,28,Books,Introduction to the basics of astronomy
+59,Philosophy Basics,90.00,35,Books,Beginner’s guide to philosophy
+60,World Atlas,120.00,25,Books,Detailed atlas with maps and information
+61,Blender,250.00,20,Home&Kitchen,Powerful electric blender for smoothies and sauces
+62,Non-stick Pan,80.00,35,Home&Kitchen,Durable non-stick pan for everyday cooking
+63,Microwave Oven,300.00,15,Home&Kitchen,Efficient microwave oven with multiple settings
+64,Vacuum Cleaner,200.00,20,Home&Kitchen,High-suction vacuum cleaner for home use
+65,LED Lamp,60.00,40,Home&Kitchen,Energy-saving LED lamp with adjustable brightness
+66,Dish Set,100.00,30,Home&Kitchen,Complete dish set for family dining
+67,Coffee Maker,150.00,25,Home&Kitchen,Automatic coffee maker for quick brewing
+68,Electric Kettle,70.00,50,Home&Kitchen,Fast-boiling electric kettle
+69,Rice Cooker,120.00,35,Home&Kitchen,Efficient rice cooker with keep-warm feature
+70,Toaster,90.00,40,Home&Kitchen,Two-slice toaster with adjustable settings
+71,Cutlery Set,110.00,28,Home&Kitchen,Stainless steel cutlery set for everyday use
+72,Baking Tray,50.00,45,Home&Kitchen,Non-stick baking tray for oven use
+73,Water Filter,140.00,20,Home&Kitchen,Advanced water filter for clean drinking water
+74,Ceiling Fan,180.00,15,Home&Kitchen,Quiet and efficient ceiling fan
+75,Iron,100.00,30,Home & Kitchen,Steam iron for wrinkle-free clothes
+76,Laundry Basket,60.00,40,Home&Kitchen,Durable laundry basket with handles
+77,Storage Box,50.00,45,Home&Kitchen,Plastic storage box for organizing items
+78,Air Purifier,200.00,18,Home&Kitchen,Air purifier with HEPA filter
+79,Wall Clock,70.00,50,Home&Kitchen,Classic wall clock with clear display
+80,Curtains,90.00,35,Home&Kitchen,Stylish curtains for home decor
+81,Football,150.00,25,Sports,Professional-grade football for all surfaces
+82,Basketball,140.00,30,Sports,Durable basketball for indoor and outdoor play
+83,Tennis Racket,200.00,20,Sports,Lightweight tennis racket for competitive play
+84,Badminton Set,120.00,35,Sports,Complete badminton set with rackets and shuttlecocks
+85,Cycling Helmet,100.00,40,Sports,Protective cycling helmet for safety
+86,Mountain Bike,800.00,10,Sports,High-performance mountain bike with gears
+87,Boxing Gloves,130.00,25,Sports,Durable boxing gloves for training and matches
+88,Jump Rope,40.00,50,Sports,Adjustable jump rope for fitness workouts
+89,Yoga Mat,70.00,45,Sports,Non-slip yoga mat for home and studio use
+90,Dumbbell Set,250.00,20,Sports,Adjustable dumbbell set for strength training
+91,Treadmill,900.00,8,Sports,Compact treadmill for home cardio workouts
+92,Skateboard,120.00,30,Sports,Durable skateboard with smooth wheels
+93,Cricket Bat,180.00,22,Sports,Professional cricket bat for all formats
+94,Hiking Backpack,200.00,18,Sports,Spacious hiking backpack with multiple compartments
+95,Fishing Rod,150.00,25,Sports,Flexible fishing rod for beginners and pros
+96,Kayak,600.00,10,Sports,Lightweight kayak for lakes and rivers
+97,Golf Clubs,500.00,12,Sports,Complete set of golf clubs for all levels
+98,Surfboard,700.00,8,Sports,Durable surfboard for beginners and experts
+99,Table Tennis Set,100.00,35,Sports,Complete table tennis set with paddles and balls
+100,Volleyball,90.00,40,Sports,Official-size volleyball for indoor and outdoor play
+101,Polo Shirt,90.00,45,Clothing,Comfortable polo shirt for casual wear
+102,Cardigan,150.00,25,Clothing,Lightweight cardigan for layering
+103,Blazer,300.00,15,Clothing,Classic blazer for formal occasions
+104,Cargo Pants,130.00,30,Clothing,Durable cargo pants with multiple pockets
+105,Beanie Hat,50.00,50,Clothing,Warm beanie hat for winter
+106,Sandals,70.00,40,Clothing,Comfortable sandals for everyday use
+107,Parka Coat,250.00,20,Clothing,Insulated parka coat for cold weather
+108,Leather Gloves,100.00,35,Clothing,Stylish leather gloves for winter
+109,Maxi Dress,180.00,28,Clothing,Flowing maxi dress for summer occasions
+110,Sports Jacket,200.00,20,Clothing,Lightweight sports jacket for training
+111,Running Shorts,80.00,45,Clothing,Breathable running shorts for athletes
+112,Formal Trousers,160.00,22,Clothing,Elegant formal trousers for office wear
+113,Denim Jacket,220.00,18,Clothing,Classic denim jacket for casual outfits
+114,Ankle Boots,250.00,20,Clothing,Stylish ankle boots for all seasons
+115,Graphic T-shirt,60.00,50,Clothing,Trendy graphic t-shirt with various prints
+116,Sports Bra,90.00,35,Clothing,Supportive sports bra for workouts
+117,Chinos,140.00,30,Clothing,Comfortable chinos for casual or formal use
+118,Sun Hat,70.00,40,Clothing,Wide-brim sun hat for UV protection
+119,Overcoat,280.00,15,Clothing,Warm overcoat for winter wear
+120,Slippers,60.00,50,Clothing,Soft slippers for home comfort
+121,E-Reader Kindle,300.00,20,Technology,Lightweight e-reader with glare-free screen
+122,Portable Projector,400.00,18,Technology,Compact portable projector for movies and presentations
+123,Smart TV Box,150.00,35,Technology,Smart TV box with streaming capabilities
+124,Portable SSD 512GB,200.00,25,Technology,Fast portable SSD for secure storage
+125,Noise Cancelling Headphones,350.00,15,Technology,Premium headphones with active noise cancellation
+126,Mechanical Gaming Mouse,120.00,40,Technology,High-performance gaming mouse with customizable buttons
+127,Noise-Isolating Earphones,80.00,45,Technology,Comfortable earphones with noise isolation
+128,Compact Digital Camera,300.00,20,Technology,Portable digital camera for travel and photography
+129,Portable Bluetooth Keyboard,90.00,35,Technology,Wireless bluetooth keyboard for laptops and tablets
+130,Smart Home Plug,70.00,50,Technology,Smart plug for remote control of appliances
+131,WiFi Repeater,100.00,40,Technology,WiFi repeater for extended coverage
+132,Action Camera Accessories,150.00,28,Technology,Accessory kit for action cameras
+133,Wireless Presenter,60.00,45,Technology,Wireless presenter for slideshows
+134,Smartphone Gimbal,200.00,25,Technology,Stabilized gimbal for smartphone videography
+135,Desktop Microphone,100.00,35,Technology,USB desktop microphone for recording and streaming
+136,USB Flash Drive 64GB,50.00,60,Technology,High-speed USB flash drive for data storage
+137,Smart Home Plug Pro,80.00,45,Technology,Advanced smart plug with energy monitoring
+138,WiFi Mesh System,300.00,15,Technology,Whole-home WiFi mesh system for seamless coverage
+139,Portable Hard Drive 2TB,250.00,20,Technology,Large-capacity portable hard drive for backups
+140,Cooling Pad,60.00,50,Technology,Laptop cooling pad with silent fans
+141,LED Desk Lamp,70.00,40,Technology,Adjustable LED desk lamp with touch controls
+142,Mini Drone,250.00,20,Technology,Compact mini drone with HD camera
+143,Smartphone Stand,40.00,55,Technology,Adjustable stand for smartphones and tablets
+144,Power Bank 20000mAh,120.00,35,Technology,High-capacity power bank for extended charging
+145,Wireless Charger,90.00,45,Technology,Fast wireless charger for multiple devices
+146,Graphics Tablet Pro,350.00,15,Technology,Professional graphics tablet for designers
+147,VR Headset Pro,800.00,10,Technology,Advanced VR headset with immersive features
+148,Gaming Monitor 24,400.00,20,Technology,High-refresh gaming monitor for smooth visuals
+149,External SSD 1TB,300.00,25,Technology,Fast external SSD for quick file transfers
+150,Portable Bluetooth Speaker,150.00,40,Technology,Compact Bluetooth speaker with rich sound
+151,iphone pro max 16,15000,15,New,it's a very powerful phone

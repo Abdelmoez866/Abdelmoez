@@ -28,12 +28,17 @@ This project demonstrates basic programming concepts such as file handling, data
  Project Structure
 
 cpp-ecommerce-system
-│
+
 ├── main.cpp
+
 ├── users.txt
+
 ├── Cart.txt
+
 ├── products.txt
+
 ├── E-Commerce.exe
+
 └── README.md
 
 main.cpp → main source code
@@ -46,6 +51,6 @@ products.txt → stores product information
 
 E-Commerce.exe → compiled application
 
-👨‍💻 Author
+Author
 
 Abdelmoez Galal
